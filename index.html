@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Almier pogi</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+      color: white;
+      text-align: center;
+    }
+    h1 {
+      font-size: 60px;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    }
+    p {
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Almier pogi 😎</h1>
+    <p>Welcome to my first website!</p>
+  </div>
+</body>
+</html>
